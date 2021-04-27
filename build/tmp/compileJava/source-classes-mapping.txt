@@ -40,9 +40,11 @@ com/tom/test/Box2.java
  com.tom.test.Box2
 com/tom/test/Box1.java
  com.tom.test.Box1
-com/tom/test/test.java
- com.tom.test.test
-com/tom/test/Box4.java
- com.tom.test.Box4
 com/tom/test/Box3.java
  com.tom.test.Box3
+com/tom/test/Box4.java
+ com.tom.test.Box4
+com/tom/test/test.java
+ com.tom.test.test
+com/tom/test/Box5.java
+ com.tom.test.Box5

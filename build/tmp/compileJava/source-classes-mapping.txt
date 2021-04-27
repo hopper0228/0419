@@ -1,5 +1,5 @@
-com/tom/Person.java
- com.tom.Person
+com/tom/stud/Mailer.java
+ com.tom.stud.Mailer
 com/tom/stud/Student.java
  com.tom.stud.Student
 com/tom/racing/Horse.java
@@ -10,8 +10,12 @@ com/tom/racing/Runnable.java
  com.tom.racing.Runnable
 com/tom/box/Box3.java
  com.tom.box.Box3
+com/tom/Person1.java
+ com.tom.Person1
 com/tom/cust/SilverCustomer.java
  com.tom.cust.SilverCustomer
+com/tom/stud/Tester.java
+ com.tom.stud.Tester
 com/tom/stud/GraduateStudent.java
  com.tom.stud.GraduateStudent
 com/tom/cust/Tester.java
@@ -30,7 +34,15 @@ com/tom/box/Box2.java
  com.tom.box.Box2
 com/tom/rpg/Villager.java
  com.tom.rpg.Villager
-com/tom/stud/Tester.java
- com.tom.stud.Tester
-com/tom/stud/Mailer.java
- com.tom.stud.Mailer
+com/tom/test/Box.java
+ com.tom.test.Box
+com/tom/test/Box2.java
+ com.tom.test.Box2
+com/tom/test/Box1.java
+ com.tom.test.Box1
+com/tom/test/test.java
+ com.tom.test.test
+com/tom/test/Box4.java
+ com.tom.test.Box4
+com/tom/test/Box3.java
+ com.tom.test.Box3
